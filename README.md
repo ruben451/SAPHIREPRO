@@ -8,7 +8,6 @@ KLIPPER > SKR 1.4 Turbo > TT Sapphire Pro
     - Will change Y endstop for optical endstop [under devlopment]
     - Will change X endtop for proximity endstop [under devlopment]
 - Raspberry Pi 4B (4Gb)
-  - Klipper 0.9.X
   - Kiauh as Script to install Klipper + Moonraker + Fluidd
   - ADXL345 (imput shapper physycal calibrator)
 - 3 X 0.9 Angle motors (e3D Online) - High Torque [XYZ]
