@@ -1,36 +1,35 @@
 # SAPHIREPRO
 
+# spro_klipper_skr14t
 KLIPPER > SKR 1.4 Turbo > TT Sapphire Pro
-BTT SKR 1.4 Turbo
-Tela Fysetc mini LCD12864
-4XTMC2209
-Homing sem sensor habilitado para X e Y. Sem paradas físicas
-Mudará o ponto final Y para o ponto final óptico [em desenvolvimento]
-Mudará o endtop X para endtop de proximidade [em desenvolvimento]
-Framboesa Pi 4B (4Gb)
-Clipper 0.9.X
-Kiauh como script para instalar Klipper + Moonraker + Fluidd
-ADXL345 (calibrador físico imput shaper)
-Motores de ângulo 3 x 0,9 (e3D Online) - Alto torque [XYZ]
-Motor de ângulo 1 x 0,9 (e3D Online) - Compacto, mas poderoso [E]
-Clone TriangleLab V6: quebra-calor de titânio + bico folheado a cobre + 50W
-Clone TriangleLab v1 BMG: tubo PTFE de 600 mm (bowden)
-Fysetc BLTouch (Smnart v3.1)
-Usado como fim de curso Z e base de nivelamento automático
-Kit Suporte Cama + Alumínio 5mm + Cama Aquecida Silicone [todos KIS3D]
-Suporte de cama com trava oscilante [KIS3D]
-Porca rosca trapezoidal de nylon TR8x2 (em Z)
-Eixo de precisão MISUMI em qualidade H5
-Rolamento linear de precisão MISUMI SlRW12
-Trilhos Lineares
-2 x 300 mm (robotdigg) [eixo Y]
-1 x 280 mm (robotdigg) [eixo X]
-PORTÕES PowerGrip® 6mm
-Novo top KT6 de [KIS3D]
-Esta nova placa superior tem geometria diferente [corrigida]
-Com este top, nova montagem hotend precisava ser feita
-Baseado na montagem KIS3D [v6 Bowden], mas com alguns recursos adicionais
-Suporte para toque preto
-suporte aadxl345
-DirectDrive (sherpa mini ou orbiter) [em desenvolvimento]
-melhor bloqueio de cintos [em desenvolvimento]
+- BTT SKR 1.4 Turbo
+  - Fysetc mini LCD12864 Screen
+  - 4 X TMC2209
+  - Sensorless homing enable for X and Y. No physical endstops
+    - Will change Y endstop for optical endstop [under devlopment]
+    - Will change X endtop for proximity endstop [under devlopment]
+- Raspberry Pi 4B (4Gb)
+  - Klipper 0.9.X
+  - Kiauh as Script to install Klipper + Moonraker + Fluidd
+  - ADXL345 (imput shapper physycal calibrator)
+- 3 X 0.9 Angle motors (e3D Online) - High Torque [XYZ]
+- 1 X 0.9 Angle motor (e3D Online) - Compact but Powerfull [E]
+- TriangleLab V6 Clone: titanium heatbreak + cooper plated nozzle + 50W
+- TriangleLab v1 BMG Clone: 600mm PTFE tube (bowden)
+- Fysetc BLTouch (Smnart v3.1)
+  - Used as Z endstop and autoleveling bed
+- Bed Suporte Kit + Aluminium 5mm + Silicone heated bed [all KIS3D]
+  - Bed Supporte with lock woobling [KIS3D]
+  - Nylon trapezoidal thread nut TR8x2 (on Z)
+  - MISUMI precision shaft in H5 quality
+  - MISUMI Precision Linear Bearing SlRW12
+- Linear Rails
+  - 2 x 300mm (robotdigg) [Y axis]
+  - 1 x 280mm (robotdigg) [X axis]
+- GATES PowerGrip® 6mm
+- New top KT6 from [KIS3D]
+  - This new top plate has diferent geometry [corrected]
+  - With this top, new hotend mount needed to be done
+    - Based on KIS3D [v6 bowden] mount but with some added features
+      - Bltouch support
+      - adxl345 support
