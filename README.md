@@ -1,6 +1,5 @@
 # SAPHIREPRO
 
-# spro_klipper_skr14t
 KLIPPER > SKR 1.4 Turbo > TT Sapphire Pro
 - BTT SKR 1.4 Turbo
   - Fysetc mini LCD12864 Screen
